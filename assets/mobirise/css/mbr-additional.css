@@ -1578,11 +1578,11 @@ body {
 .cid-rv4Ltb5y80 .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #ffffff;
+  background: #00a82d;
 }
 .cid-rv4Ltb5y80 .navbar.opened {
   transition: all .3s;
-  background: #ffffff !important;
+  background: #00a82d !important;
 }
 .cid-rv4Ltb5y80 .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1680,7 +1680,7 @@ body {
   }
 }
 .cid-rv4Ltb5y80 .navbar.navbar-short {
-  background: #ffffff !important;
+  background: #00a82d !important;
   min-height: 60px;
 }
 .cid-rv4Ltb5y80 .navbar.navbar-short .navbar-logo img {
@@ -1724,7 +1724,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-rv4Ltb5y80 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #00a82d;
 }
 .cid-rv4Ltb5y80 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
