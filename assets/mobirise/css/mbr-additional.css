@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Righteous:400);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
 
 
 
@@ -30,10 +31,10 @@ body {
 }
 .display-2 {
   font-family: 'Righteous', display;
-  font-size: 3rem;
+  font-size: 3.4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 5.44rem;
 }
 .display-4 {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -51,11 +52,11 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.6rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 2.56rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -69,9 +70,9 @@ body {
     line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1870,6 +1871,54 @@ body {
   padding-bottom: 30px;
   background-color: #57468b;
 }
+.cid-rvc0MNbZK2 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rvc0MNbZK2 img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-rvc0MNbZK2 H1 {
+  color: #57468b;
+}
+.cid-rvc0MNbZK2 .mbr-text,
+.cid-rvc0MNbZK2 .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rvc0MNbZK2 H3 {
+  color: #716c80;
+}
+.cid-rvc0MNbZK2 .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-rvc0MNbZK2 .link {
+  display: flex;
+  width: fit-content;
+  transition: all 0.3s;
+  align-items: center;
+}
+.cid-rvc0MNbZK2 .link .link-ico {
+  padding-top: 2px;
+  transition: padding 0.3s;
+}
+.cid-rvc0MNbZK2 .link:hover {
+  color: #ffe100 !important;
+}
+.cid-rvc0MNbZK2 .link:hover .link-ico {
+  color: #ffe100 !important;
+  padding-left: 10px;
+}
+.cid-rvc0MNbZK2 DIV {
+  color: #57468b;
+  text-align: center;
+}
+.cid-rvc0MNbZK2 .mbr-text,
+.cid-rvc0MNbZK2 .media-content {
+  text-align: center;
+}
 .cid-rv50Arqn6p {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -1878,4 +1927,31 @@ body {
 .cid-rv50Arqn6p .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
+}
+.cid-rvc0F3BVMK {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #f2f6ff;
+}
+.cid-rvc0F3BVMK H1 {
+  color: #57468b;
+}
+.cid-rvc0F3BVMK .mbr-text,
+.cid-rvc0F3BVMK .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rvc0K0zMao {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rvc0K0zMao H1 {
+  color: #57468b;
+}
+.cid-rvc0K0zMao .mbr-text,
+.cid-rvc0K0zMao .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rvc0K0zMao H3 {
+  color: #716c80;
 }
